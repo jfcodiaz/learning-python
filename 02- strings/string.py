@@ -1,0 +1,6 @@
+print('it is a string')
+print("it is a string too")
+print('if you need a "" you need star with a simple quote')
+print("if you need a '''' you nedd double a qoute ")
+print("if you need bouth  \"'''' you  need use the scape")
+print('if you need bouth  "\'\'\'\' you  need use the scape')
